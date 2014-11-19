@@ -1,4 +1,4 @@
-package com.example.llll7.myapplication;
+package com.example.llll7.logintest;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
